@@ -2,6 +2,8 @@
 
 Simplified and interactive visualization interface capable of defining complex variables by applying formulas to simpler ones and observing the impact of their own changes and interactions with other variables, through charts and calculated values. Solution explored in the context of the Capstone Project Curricular Unit of L.EIC @ FEUP, proposed by the LIACC department to find a different approach for their already developed prototype of risk calculations for the ERS, accessible to users with few knowledge on complex mathematical formulas from all areas of expertise.
 
+Made with love by me, [André Santos](https://github.com/andrelds11), [Edgar Torre](https://github.com/edgarftorre) and [João Andrade](https://github.com/JoaoMIEIC). <3
+
 ## Preview 
 
 ![](https://github.com/mariacrnr/PI/blob/main/docs/preview.gif)
