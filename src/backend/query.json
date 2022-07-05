@@ -1,0 +1,8 @@
+{
+    "variable_name" : "SELECT DISTINCT name AS variable_name FROM Variables",
+    "entity_name" : "SELECT DISTINCT entity AS entity_name FROM Variables",
+    "function_name" : "SELECT DISTINCT equation AS function_name FROM Functions",
+    "min_value" : "SELECT MIN(value) AS min_value FROM Variables WHERE name = '$variableName$' AND entity = '$entityName$'",
+    "max_value": "SELECT MAX(value) AS max_value FROM Variables WHERE name = '$variableName$' AND entity = '$entityName$'",
+    "date_last2weeks, value_last2weeks" : "SELECT date AS date_last2weeks, value As value_last2weeks FROM Variables WHERE name = '$variableName$' AND entity = '$entityName$' AND date >= NOW() - INTERVAL 2 WEEK"
+}
