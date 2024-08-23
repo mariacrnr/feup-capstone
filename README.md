@@ -6,7 +6,7 @@ Made with love by me, [André Santos](https://github.com/andrelds11), [Edgar Tor
 
 ## Preview 
 
-![](https://github.com/mariacrnr/PI/blob/main/docs/preview.gif)
+![](/docs/preview.gif)
 
 ## Instalation and Execution
 ### Backend
